@@ -35,8 +35,16 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 # 🔥 News
 - *2021.07*: &nbsp;🎉🎉 I join Georgia Institute of Technology as a Postdoctoral fellow. 
 - *2020.07*: &nbsp;🎉🎉 I get Ph.D in statistics from Univeristy of Academy of Sciences and (jointly) City University of Hong Kong. 
-[older news](/all_news/)
+- [Older news](/all_news/)
 
+
+
+# 📖 Educations
+
+
+- 2014-2020 : **PhD, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
+  - *Thesis title: *
+  - Supervisor: Prof. Dan Yu
 
 
 # 📝 Publications 
@@ -85,14 +93,6 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 - Outstanding Undergraduate Scholarship
   - Unicersity of Science and Technology of China
   - 2011,2012
-
-
-# 📖 Educations
-
-
-- 2014-2020 : **PhD, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
-  - *Thesis title: *
-  - Supervisor: Prof. Dan Yu
 
 
 # 💬 Invited Talks
