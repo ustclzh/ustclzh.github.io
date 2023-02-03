@@ -21,9 +21,9 @@ I am currently a Post-Doctoral Fellow at the H. Milton Stewart School of Industr
 Before joining Georgia Tech, I was a research assistant at the City university of Hong Kong. 
 I received my B.S degree in Mathematics from Hua Loo-Keng Talent Program in Mathematics at the University of Science and Technology of China (USTC) in 2014, graduated with honors, and my Ph.D. degree in Statistics from the University of Chinese Academy of Sciences and (Jointly) City University of Hong Kong.
 
-My research areas are \textbf{computer experiments and uncertainty quantification}.
+My research areas are computer experiments and uncertainty quantification.
 My research interests involve integrating domain knowledge (e.g., conservation law, mechanical models, bio-system models) into statistical modeling and parameter inference. 
-In particular, I'm working on \textit{building new statistical models and machine learning algorithms for parameter inference problems}, providing a novel way for scientists to calibrate their scientific model from data, and for statisticians to integrate scientific knowledge for parameter inference and uncertainty quantification of a complex computer model.
+In particular, I'm working on building new statistical models and machine learning algorithms for parameter inference problems, providing a novel way for scientists to calibrate their scientific model from data, and for statisticians to integrate scientific knowledge for parameter inference and uncertainty quantification of a complex computer model.
 
 My current research focuses Bayesian calibration of computer models involving complex partial differential equations (PDE) and stochastic differential equations(SDE). 
 I am proposing new models that can incorporate information from physics, i.e. PDE or SDE constraints, without further computational burden.
@@ -48,19 +48,6 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
@@ -95,6 +82,6 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
   - 2011,2012
 
 
-# 💬 Invited Talks
+# 💬 Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
