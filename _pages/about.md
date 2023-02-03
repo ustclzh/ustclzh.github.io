@@ -17,9 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Post-Doctoral Fellow at the H. Milton Stewart School of Industrial and Systems Engineering (ISyE), Georgia Institute of technology. 
+Before joining Georgia Tech, I was a research assistant at the City university of Hong Kong. 
+I received my B.S degree in Mathematics from Hua Loo-Keng Talent Program in Mathematics at the University of Science and Technology of China (USTC) in 2014, graduated with honors, and my Ph.D. degree in Statistics from the University of Chinese Academy of Sciences and (Jointly) City University of Hong Kong.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research areas are \textbf{computer experiments and uncertainty quantification}.
+My research interests involve integrating domain knowledge (e.g., conservation law, mechanical models, bio-system models) into statistical modeling and parameter inference. 
+In particular, I'm working on \textit{building new statistical models and machine learning algorithms for parameter inference problems}, providing a novel way for scientists to calibrate their scientific model from data, and for statisticians to integrate scientific knowledge for parameter inference and uncertainty quantification of a complex computer model.
+
+My current research focuses Bayesian calibration of computer models involving complex partial differential equations (PDE) and stochastic differential equations(SDE). 
+I am proposing new models that can incorporate information from physics, i.e. PDE or SDE constraints, without further computational burden.
+Thus, the new physics-informed methods can handle sparse observation cases and are more stable to data noise. 
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).--> 
 
 
 # 🔥 News
