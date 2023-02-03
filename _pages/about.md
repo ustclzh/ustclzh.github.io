@@ -90,16 +90,9 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 # 📖 Educations
 
 
-2014-2020 : **PhD, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
-
-    *Thesis title: *
-    Supervisor: Prof. Dan Yu
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+- 2014-2020 : **PhD, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
+  - *Thesis title: *
+  - Supervisor: Prof. Dan Yu
 
 
 # 💬 Invited Talks
