@@ -53,23 +53,59 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 </div>
 </div>
 
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+*2021* Honorable Mention for the Best Paper in the 2020 IISE Transactions:
+
+    IISE transactions Annual Meeting
+
+IISE transactions Featured Article
+
+    IISE transactions}{2019}
+
+Best Paper Award
+
+    The 11th International Conference on Reliability, Maintainability and Safety (ICRMS)
+    2016
+    
+Outstanding Freshman Scholarship
+
+    {Academy of Mathematics and Systems Science, Chinese Academy of Sciences}{2014}
+
+Honor degree of Hua Loo-Keng Talent Program in Mathematics
+
+    Unicersity of Science and Technology of China
+    2014
+
+National Scholarship
+    
+    Unicersity of Science and Technology of China
+    2013
+
+Outstanding Undergraduate Scholarship
+
+    Unicersity of Science and Technology of China
+    2011,2012
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+
+2014-2020 : **PhD, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
+
+    *Thesis title: *
+    Supervisor: Prof. Dan Yu
+
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
+
+    *Minor: Awesomeology*
 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
