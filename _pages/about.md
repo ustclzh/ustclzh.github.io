@@ -37,13 +37,12 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 - *2021.07*: &nbsp;🎉🎉 I join Georgia Institute of Technology as a Postdoctoral fellow. 
 - *2020.07*: &nbsp;🎉🎉 I get Ph.D in statistics from Univeristy of Chinese Academy of Sciences and (jointly) City University of Hong Kong.
 
-<details>
-  <summary> Past News </summary>
+??? Past News 
 
   1. 2020.06.01: &nbsp;🎉🎉 I got married with Qingmei Zhao. 
     
   2. 2014.09: &nbsp;🎉🎉 I start to persue my Ph.D at Academy of Mahtematics and Systems Sciences. 
-</details>
+
 
 
 # 📖 Experiences
