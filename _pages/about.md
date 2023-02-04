@@ -33,6 +33,7 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 
 
 # 🔥 News
+- *2023.01*: &nbsp;🎉🎉 I will join Institute of Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, as an assistant professor. 
 - *2021.07*: &nbsp;🎉🎉 I join Georgia Institute of Technology as a Postdoctoral fellow. 
 - *2020.07*: &nbsp;🎉🎉 I get Ph.D in statistics from Univeristy of Chinese Academy of Sciences and (jointly) City University of Hong Kong. 
 - [Older news](/all_news/)
