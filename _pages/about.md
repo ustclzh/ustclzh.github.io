@@ -38,7 +38,7 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 - *2020.07*: &nbsp;🎉🎉 I get Ph.D in statistics from Univeristy of Chinese Academy of Sciences and (jointly) City University of Hong Kong.
 
 <details>
-<summary> Pase News </summary>
+<summary> Past News </summary>
 
 - *2020.06.01*: &nbsp;🎉🎉 I got married with Qingmei Zhao. 
 - *2014.09*: &nbsp;🎉🎉 I start to persue my Ph.D at Academy of Mahtematics and Systems Sciences. 
