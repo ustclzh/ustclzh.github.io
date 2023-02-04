@@ -42,14 +42,48 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 # 📖 Educations
 
 
-- 2014-2020 : **PhD, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
+- 2014-2020 : **Ph.D, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
   - *Thesis title: *
   - Supervisor: Prof. Dan Yu
+- 2018-2020 : **Ph.D, Statistics**; City University of Hong Kong
+  - *Thesis title: *
+  - Supervisor: Prof. Matthias Tan
+- 2010-2014 : **B.S in Mathematics**; University of Science and Technology of China
+  - Honor degree of Hua Loo-Keng Talent Program in Mathematics
 
 
-# 📝 Publications 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 📝 Publications
+
+## Published Journal Papers
+
+- Du, S., **Li, Z.**, Yu, D., Li, D., & Hu, Q. (2020) [*Exact Confidence Limit for Complex System Reliability Based on Component Test Data.*](https://www.tandfonline.com/doi/abs/10.1080/16843703.2018.1535766) Quality Technology & Quantitative Management, 17(1), 75-88.
+
+- **Li, Z.**, Yu, D., Liu, J., & Hu, Q. （2021） [*Higher-order Normal Approximation Approach for Highly Reliable System Assessment.* ](https://www.tandfonline.com/doi/abs/10.1080/24725854.2019.1630869) IISE Transactions, 52(5)，555-567. 
+
+- **Li, Z.**, & Tan, M.H. （2022） [*A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.*](https://www.tandfonline.com/doi/abs/10.1080/00401706.2021.1971567) Technometrics, 64(3),299-311. 
+
+## Submitted Journal Papers
+
+- **Li, Z.**, Yang, S., & Wu, J. (2022+) [*Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.*](https://arxiv.org/abs/2212.11880)  Submitted to SIAM Journal on Uncertainty Quantification.
+
+- Fan, Z., **Li, Z.**, Wang, J., Lin, D.K.J., Xiong, X., & Hu, Q. (2022+) [*A Bayesian Robust Regression Method for Corrupted Data Reconstruction*.](https://arxiv.org/abs/2212.12787)  Submitted to Journal of Quality Technology.
+
+## Conference Papers
+
+- **Li, Z.**, Hu, Q., & Yu, D. (2016) [*Higher order normal approximation approach for system reliability assessment.*](https://ieeexplore.ieee.org/document/8050110) In 2016 11th International Conference on Reliability, Maintainability, and Safety (ICRMS 2016) (pp. 1-6). IEEE.
+
+- Fan, Z., **Li, Z.**, & Hu, Q. (2022) [*Robust Bayesian Regression via Hard Thresholding.*](https://openreview.net/forum?id=krV1UM7Uw1) In 36th Conference on Neural Information Processing Systems (NeurIPS 2022).
+
+## Book Chapters
+
+- **Li, Z.**, & Tan, M.H. (2022) [*Improving Gaussian Process Emulators with Boundary Information.*](https://link.springer.com/chapter/10.1007/978-3-031-07155-3_7) Artificial Intelligence, Big Data and Data Science in Statistics, 171-192. 
+
+## Working Papers
+
+- **Li, Z.**, Yang, S., & Wu, J. (2023+) *Stochastic Differential Equations informed Gaussian Process for Parameter Inference.*
+
+- **Li, Z.**, Tan, M.H., & Wu, J. (2023+) *A Parameterization-Invariant Framework for Bayesian Calibration of Positive Definite Matrix.*
 
 # 🎖 Honors and Awards
 
