@@ -2,7 +2,7 @@
 permalink: /all_news/
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /news/
   - /news.html
