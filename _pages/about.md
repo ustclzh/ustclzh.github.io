@@ -57,7 +57,7 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 - 2018-2020 : **Ph.D, Statistics**; City University of Hong Kong
   - *Thesis title: Contributions to System Reliability Assessment and Bayesian Inverse Problems*
   - Supervisor: Prof. Matthias Tan
-- 2010-2014 : **B.S in Mathematics**; University of Science and Technology of China
+- 2010-2014 : **B.S, Mathematics**; University of Science and Technology of China
   - Honor degree of Hua Loo-Keng Talent Program in Mathematics
 
 
