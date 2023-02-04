@@ -39,8 +39,10 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 
 <details>
   <summary> Past News </summary>
-  <p>2020.06.01: &nbsp;🎉🎉 I got married with Qingmei Zhao. </p>
-  <p>2014.09: &nbsp;🎉🎉 I start to persue my Ph.D at Academy of Mahtematics and Systems Sciences. </p>
+  <ul>
+  <li>2020.06.01: &nbsp;🎉🎉 I got married with Qingmei Zhao.</li>
+  <li>2014.09: &nbsp;🎉🎉 I start to persue my Ph.D at Academy of Mahtematics and Systems Sciences.</li>
+  </ul> 
 </details>
 
 
