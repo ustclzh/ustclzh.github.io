@@ -96,33 +96,26 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 
 # 🎖 Honors and Awards
 
-- Honorable Mention for the Best Paper in the 2020 IISE Transactions:
+- (2021) Honorable Mention for the Best Paper in the 2020 IISE Transactions:
   - IISE transactions Annual Meeting
-  - 2021
 
-- IISE transactions Featured Article
+- (2019) IISE transactions Featured Article
   - IISE transactions
-  - 2019
 
-- Best Paper Award
+- (2016) Best Paper Award
   - The 11th International Conference on Reliability, Maintainability and Safety (ICRMS)
-  - 2016
 
-- Outstanding Freshman Scholarship
+- (2014) Outstanding Freshman Scholarship
   - Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-  - 2014
 
-- Honor degree of Hua Loo-Keng Talent Program in Mathematics
+- (2014) Honor degree of Hua Loo-Keng Talent Program in Mathematics
   - Unicersity of Science and Technology of China
-  - 2014
 
-- National Scholarship
+- (2013) National Scholarship
   - Unicersity of Science and Technology of China
-  - 2013
 
-- Outstanding Undergraduate Scholarship
+- (2011,2012) Outstanding Undergraduate Scholarship
   - Unicersity of Science and Technology of China
-  - 2011,2012
 
 
 # 💬 Talks
