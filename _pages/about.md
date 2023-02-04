@@ -117,5 +117,33 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 
 
 # 💬 Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+## Invited Talks
+
+- *Functional Input Estimation Using a Gaussian Process Prior with Uncertain Correlation Parameters.* (2019) Workshop on Uncertainty Quantification, Yunnan University, Kunming.
+
+- *A Gaussian Process Emulator based Bayesian Calibration for Functional Parameters.* (2020) Academy of Mathematics and System Sciences, Chinese Academy of Sciences, Beijing.
+
+- *A Partial Differential Equation Constrained Gaussian Processes Inference Method.* (2021) Academy of Mathematics and System Sciences, Chinese Academy of Sciences, Beijing.
+
+- *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2022) Louisiana State University, Baton Rouge.
+
+## Poster Presentations
+
+- *Robust Bayesian Regression via Hard Thresholding.* (2022) The 36th Conference on Neural Information Processing Systems (NeurIPS), New Orleans.
+
+## Contributed Talks
+
+- *Higher-order Normal Approximation Approach for Highly Reliable System Assessment.* (2016) International Research Conference on Systems Engineering and Management Science (ICR-SEMS). Beijing.
+
+- *Higher order normal approximation approach for system reliability assessment.* (2016) The 11th International Conference on Reliability, Maintainability and Safety (ICRMS) Hangzhou.
+
+- *The Buehler lower limits on system reliability based on the component experiment data.* (2016) The 7th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM), Seoul.
+
+- *Improved WCF expansion to assessing the reliability of complex systems.* (2017) The 10th International Conference on Mathematical Methods in Reliability (MMR), Grenoble. 
+  
+- *Higher order normal approximation approach for highly reliable system assessment.* (2021) The IISE Annual Meeting. (Virtual).
+
+- *A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.* (2021) INFORMS Annual Meeting. (Virtual) Anaheim, California. 
+
+- *Calibration of Physics Informed Computer Models with Functional Inputs.* (2022.04) SIAM Conference on Uncertainty Quantification (UQ22). Atlanta, Georgia. 
