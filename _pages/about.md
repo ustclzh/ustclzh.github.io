@@ -44,10 +44,10 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 
 
 - 2014-2020 : **Ph.D, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
-  - *Thesis title: *
+  - *Thesis title: 系统可靠性综合评估与贝叶斯逆问题中若干问题的研究*
   - Supervisor: Prof. Dan Yu
 - 2018-2020 : **Ph.D, Statistics**; City University of Hong Kong
-  - *Thesis title: *
+  - *Thesis title: Contributions to System Reliability Assessment and Bayesian Inverse Problems*
   - Supervisor: Prof. Matthias Tan
 - 2010-2014 : **B.S in Mathematics**; University of Science and Technology of China
   - Honor degree of Hua Loo-Keng Talent Program in Mathematics
