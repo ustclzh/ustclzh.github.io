@@ -62,7 +62,7 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 
 
 
-# 📝 Publications
+# 📝 Publications & Talks
 
 ## Published Journal Papers
 
@@ -94,31 +94,6 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 
 - **Li, Z.**, Tan, M.H., & Wu, J. (2023+) *A Parameterization-Invariant Framework for Bayesian Calibration of Positive Definite Matrix.*
 
-# 🎖 Honors and Awards
-
-- (2021) Honorable Mention for the Best Paper in the 2020 IISE Transactions:
-  - IISE transactions Annual Meeting
-
-- (2019) IISE transactions Featured Article
-  - IISE transactions
-
-- (2016) Best Paper Award
-  - The 11th International Conference on Reliability, Maintainability and Safety (ICRMS)
-
-- (2014) Outstanding Freshman Scholarship
-  - Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-
-- (2014) Honor degree of Hua Loo-Keng Talent Program in Mathematics
-  - Unicersity of Science and Technology of China
-
-- (2013) National Scholarship
-  - Unicersity of Science and Technology of China
-
-- (2011,2012) Outstanding Undergraduate Scholarship
-  - Unicersity of Science and Technology of China
-
-
-# 💬 Talks
 
 ## Invited Talks
 
@@ -149,3 +124,30 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 - *A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.* (2021) INFORMS Annual Meeting. (Virtual) Anaheim, California. 
 
 - *Calibration of Physics Informed Computer Models with Functional Inputs.* (2022.04) SIAM Conference on Uncertainty Quantification (UQ22). Atlanta, Georgia. 
+
+
+# 🎖 Honors and Awards
+
+- (2021) Honorable Mention for the Best Paper in the 2020 IISE Transactions:
+  - IISE transactions Annual Meeting
+
+- (2019) IISE transactions Featured Article
+  - IISE transactions
+
+- (2016) Best Paper Award
+  - The 11th International Conference on Reliability, Maintainability and Safety (ICRMS)
+
+- (2014) Outstanding Freshman Scholarship
+  - Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+
+- (2014) Honor degree of Hua Loo-Keng Talent Program in Mathematics
+  - Unicersity of Science and Technology of China
+
+- (2013) National Scholarship
+  - Unicersity of Science and Technology of China
+
+- (2011,2012) Outstanding Undergraduate Scholarship
+  - Unicersity of Science and Technology of China
+
+
+
