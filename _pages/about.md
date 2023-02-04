@@ -40,8 +40,16 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 
 
 
-# 📖 Educations
+# 📖 Experiences
 
+## Working
+
+- 2021-present : **PostDoc**; Georgia Institute of Technology
+  - Supervisor: Prof. Jeff Wu
+- 2018-2020 : **Research Assisstant**; City University of Hong Kong
+  - Supervisor: Prof. Matthias Tan
+
+## Education
 
 - 2014-2020 : **Ph.D, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
   - *Thesis title: 系统可靠性综合评估与贝叶斯逆问题中若干问题的研究*
