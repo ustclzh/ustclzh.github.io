@@ -62,7 +62,7 @@ Thus, the new physics-informed methods can handle sparse observation cases and a
 
 
 
-# 📝 Publications & Talks
+# 📝 Publications and Talks
 
 ## Published Journal Papers
 
