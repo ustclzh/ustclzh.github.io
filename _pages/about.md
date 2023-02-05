@@ -28,8 +28,9 @@ In particular, I'm working on building new statistical models and machine learni
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).--> 
 
+<span class='anchor' id='news'></span>
 
-# 🔥 News
+# News
 - *2023.01*: &nbsp;🎉🎉 I will join the [Institute of Systems Science](http://iss.amss.cas.cn/), [AMSS](http://www.amss.ac.cn/), [CAS](https://www.cas.cn/), as an assistant professor this Summer. 
 - *2021.07*: &nbsp;🎉🎉 I join Georgia Institute of Technology as a Postdoctoral fellow. 
 - *2020.07*: &nbsp;🎉🎉 I get Ph.D in statistics from Univeristy of Chinese Academy of Sciences and (jointly) City University of Hong Kong.
@@ -38,7 +39,7 @@ In particular, I'm working on building new statistical models and machine learni
   <summary> Past News </summary>
   <ul>
   <li>2020.06.01: &nbsp;🎉🎉 I got married with Qingmei Zhao.</li>
-  <li>2014.09: &nbsp;🎉🎉 I start to persue my Ph.D at Academy of Mahtematics and Systems Sciences.</li>
+  <li>2014.09: &nbsp;🎉🎉 I start to pursue my Ph.D at Academy of Mahtematics and Systems Sciences.</li>
   </ul> 
 </details>
 
