@@ -31,15 +31,15 @@ In particular, I'm working on building new statistical models and machine learni
 <span class='anchor' id='news'></span>
 
 # News
-- *2023.01*: &nbsp;🎉🎉 I will join the [Institute of Systems Science](http://iss.amss.cas.cn/), [AMSS](http://www.amss.ac.cn/), [CAS](https://www.cas.cn/), as an assistant professor this Summer. 
-- *2021.07*: &nbsp;🎉🎉 I join Georgia Institute of Technology as a Postdoctoral fellow. 
-- *2020.07*: &nbsp;🎉🎉 I get Ph.D in statistics from Univeristy of Chinese Academy of Sciences and (jointly) City University of Hong Kong.
+- *2023.01*: I will join the [Institute of Systems Science](http://iss.amss.cas.cn/), [AMSS](http://www.amss.ac.cn/), [CAS](https://www.cas.cn/), as an assistant professor this Summer. 
+- *2021.07*: I join Georgia Institute of Technology as a Postdoctoral fellow. 
+- *2020.07*: I get Ph.D in statistics from Univeristy of Chinese Academy of Sciences and (jointly) City University of Hong Kong.
 
 <details>
   <summary> Past News </summary>
   <ul>
-  <li>2020.06.01: &nbsp;🎉🎉 I got married with Qingmei Zhao.</li>
-  <li>2014.09: &nbsp;🎉🎉 I start to pursue my Ph.D at Academy of Mahtematics and Systems Sciences.</li>
+  <li>2020.06.01: I got married with Qingmei Zhao.</li>
+  <li>2014.09: I start to pursue my Ph.D at Academy of Mahtematics and Systems Sciences.</li>
   </ul> 
 </details>
 
@@ -50,18 +50,18 @@ In particular, I'm working on building new statistical models and machine learni
 ## Working
 
 - 2021-present : **PostDoc**; Georgia Institute of Technology
-  - Supervisor: Prof. Jeff Wu
+  - Supervisor: Prof. [Jeff Wu](https://www2.isye.gatech.edu/~jeffwu/)
 - 2020-2021 : **Research Assisstant**; City University of Hong Kong
-  - Supervisor: Prof. Matthias Tan
+  - Supervisor: Prof. [Matthias Tan](https://www.cityu.edu.hk/stfprofile/matthtan.htm)
 
 ## Education
 
 - 2014-2020 : **Ph.D, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
-  - *Thesis title: 系统可靠性综合评估与贝叶斯逆问题中若干问题的研究*
-  - Supervisor: Prof. Dan Yu
+  - *Thesis title: [系统可靠性综合评估与贝叶斯逆问题中若干问题的研究](http://159.226.47.78:8080/opac/item.php?marc_no=376e524a547a59676e77323274503446646b366e55513d3d&list=1*
+  - Supervisor: Prof. [Dan Yu](https://people.ucas.ac.cn/~0000762)
 - 2018-2020 : **Ph.D, Statistics**; City University of Hong Kong
-  - *Thesis title: Contributions to System Reliability Assessment and Bayesian Inverse Problems*
-  - Supervisor: Prof. Matthias Tan
+  - *Thesis title: [Contributions to System Reliability Assessment and Bayesian Inverse Problems](https://scholars.cityu.edu.hk/en/theses/theses(fa5bb936-0098-45ab-a9b5-a3537794c4fc).html)*
+  - Supervisor: Prof. [Matthias Tan](https://www.cityu.edu.hk/stfprofile/matthtan.htm)
 - 2010-2014 : **B.S, Mathematics**; University of Science and Technology of China
   - Honor degree of Hua Loo-Keng Talent Program in Mathematics
 
