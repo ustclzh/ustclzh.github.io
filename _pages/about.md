@@ -49,21 +49,22 @@ In particular, I'm working on building new statistical models and machine learni
 
 ## Working
 
+- 2020-2021 : **Research Assisstant**; School of Data Science, City University of Hong Kong
+  - Supervisor: Prof. [Matthias Tan](https://www.cityu.edu.hk/stfprofile/matthtan.htm)
+
 - 2021-present : **PostDoc**; Georgia Institute of Technology
   - Supervisor: Prof. [Jeff Wu](https://www2.isye.gatech.edu/~jeffwu/)
-- 2020-2021 : **Research Assisstant**; City University of Hong Kong
-  - Supervisor: Prof. [Matthias Tan](https://www.cityu.edu.hk/stfprofile/matthtan.htm)
 
 ## Education
 
+- 2010-2014 : **B.S, Mathematics**; [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), University of Science and Technology of China
+  - **Honor degree of Hua Loo-Keng Talent Program in Mathematics**
 - 2014-2020 : **Ph.D, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
   - *Thesis title: [系统可靠性综合评估与贝叶斯逆问题中若干问题的研究](http://159.226.47.78:8080/opac/item.php?marc_no=376e524a547a59676e77323274503446646b366e55513d3d&list=1)*
   - Supervisor: Prof. [Dan Yu](https://people.ucas.ac.cn/~0000762)
-- 2018-2020 : **Ph.D, Statistics**; City University of Hong Kong
+- 2018-2020 : **(Joint) Ph.D, Statistics**; School of Data Science, City University of Hong Kong
   - *Thesis title: [Contributions to System Reliability Assessment and Bayesian Inverse Problems](https://scholars.cityu.edu.hk/en/theses/theses(fa5bb936-0098-45ab-a9b5-a3537794c4fc).html)*
   - Supervisor: Prof. [Matthias Tan](https://www.cityu.edu.hk/stfprofile/matthtan.htm)
-- 2010-2014 : **B.S, Mathematics**; University of Science and Technology of China
-  - Honor degree of Hua Loo-Keng Talent Program in Mathematics
 
 
 <span class='anchor' id='research'></span>
