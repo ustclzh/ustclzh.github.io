@@ -7,10 +7,10 @@ main:
     url: "/#news"
 
   - title: "Experiences"
-    url: "/#-experiences"
+    url: "/#experiences"
 
   - title: "Publications & Talks"
-    url: "/#-publications-and-talks"
+    url: "/#research"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honor"

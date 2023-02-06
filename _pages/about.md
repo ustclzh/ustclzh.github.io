@@ -43,8 +43,9 @@ In particular, I'm working on building new statistical models and machine learni
   </ul> 
 </details>
 
+<span class='anchor' id='experiences'></span>
 
-# 📖 Experiences
+# Experiences
 
 ## Working
 
@@ -65,8 +66,9 @@ In particular, I'm working on building new statistical models and machine learni
   - Honor degree of Hua Loo-Keng Talent Program in Mathematics
 
 
+<span class='anchor' id='research'></span>
 
-# 📝 Publications and Talks
+# Publications and Talks
 
 ## Published Journal Papers
 
@@ -129,8 +131,9 @@ In particular, I'm working on building new statistical models and machine learni
 
 - *Calibration of Physics Informed Computer Models with Functional Inputs.* (2022.04) SIAM Conference on Uncertainty Quantification (UQ22). Atlanta, Georgia. 
 
+<span class='anchor' id='honor'></span>
 
-# 🎖 Honors and Awards
+# Honors and Awards
 
 - (2021) Honorable Mention for the Best Paper in the 2020 IISE Transactions:
   - IISE transactions Annual Meeting
