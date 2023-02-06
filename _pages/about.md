@@ -57,7 +57,7 @@ In particular, I'm working on building new statistical models and machine learni
 ## Education
 
 - 2014-2020 : **Ph.D, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
-  - *Thesis title: [系统可靠性综合评估与贝叶斯逆问题中若干问题的研究](http://159.226.47.78:8080/opac/item.php?marc_no=376e524a547a59676e77323274503446646b366e55513d3d&list=1*
+  - *Thesis title: [系统可靠性综合评估与贝叶斯逆问题中若干问题的研究](http://159.226.47.78:8080/opac/item.php?marc_no=376e524a547a59676e77323274503446646b366e55513d3d&list=1)*
   - Supervisor: Prof. [Dan Yu](https://people.ucas.ac.cn/~0000762)
 - 2018-2020 : **Ph.D, Statistics**; City University of Hong Kong
   - *Thesis title: [Contributions to System Reliability Assessment and Bayesian Inverse Problems](https://scholars.cityu.edu.hk/en/theses/theses(fa5bb936-0098-45ab-a9b5-a3537794c4fc).html)*
@@ -135,26 +135,24 @@ In particular, I'm working on building new statistical models and machine learni
 
 # Honors and Awards
 
-- (2021) Honorable Mention for the Best Paper in the 2020 IISE Transactions:
-  - IISE transactions Annual Meeting
-
-- (2019) IISE transactions Featured Article
-  - IISE transactions
-
-- (2016) Best Paper Award
-  - The 11th International Conference on Reliability, Maintainability and Safety (ICRMS)
-
-- (2014) Outstanding Freshman Scholarship
-  - Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-
-- (2014) Honor degree of Hua Loo-Keng Talent Program in Mathematics
+- (2011,2012) Outstanding Undergraduate Scholarship
   - Unicersity of Science and Technology of China
 
 - (2013) National Scholarship
   - Unicersity of Science and Technology of China
 
-- (2011,2012) Outstanding Undergraduate Scholarship
+- (2014) Honor degree of Hua Loo-Keng Talent Program in Mathematics
   - Unicersity of Science and Technology of China
 
+- (2014) Outstanding Freshman Scholarship
+  - Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 
+- (2016) Best Paper Award
+  - The 11th International Conference on Reliability, Maintainability and Safety (ICRMS)
+
+- (2019) IISE transactions Featured Article
+  - IISE transactions
+
+- (2021) Honorable Mention for the Best Paper in the 2020 IISE Transactions:
+  - IISE transactions Annual Meeting
 
