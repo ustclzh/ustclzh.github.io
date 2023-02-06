@@ -21,7 +21,7 @@ I am currently a Post-Doctoral Fellow at the [H. Milton Stewart School of Indust
 Before joining Georgia Tech, I was a research assistant at the [School of Data Science, City university of Hong Kong](https://www.sdsc.cityu.edu.hk/). 
 I received my B.S degree in Mathematics from Hua Loo-Keng Talent Program in Mathematics at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in 2014, graduated with honors, and my Ph.D. degree in Statistics from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) and (Jointly) City University of Hong Kong.
 
-My research areas are computer experiments and uncertainty quantification.
+My research areas are [computer experiments](https://en.wikipedia.org/wiki/Computer_experiment) and [uncertainty quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification).
 My research interests involve integrating domain knowledge (e.g., conservation law, mechanical models, bio-system models) into statistical modeling and parameter inference. 
 In particular, I'm working on building new statistical models and machine learning algorithms for parameter inference problems, providing a novel way for scientists to calibrate their scientific model from data, and for statisticians to integrate scientific knowledge for parameter inference and uncertainty quantification of a complex computer model.
 
