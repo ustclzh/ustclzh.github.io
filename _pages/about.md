@@ -78,7 +78,7 @@ In particular, I'm working on building new statistical models and machine learni
 
 ## Submitted Journal Papers
 
-- **Li, Z.**, Yang, S., & Wu, J. (2022+) [*Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.*](https://arxiv.org/abs/2212.11880)  Submitted to SIAM Journal on Uncertainty Quantification.
+- **Li, Z.**, Yang, S., & Wu, J. (2022+) [*Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.*](https://arxiv.org/abs/2212.11880)  Submitted to SIAM Journal on Uncertainty Quantification.[slides](/docs/slides/PIGPI_slides_CAS.pdf)
 
 - Fan, Z., **Li, Z.**, Wang, J., Lin, D.K.J., Xiong, X., & Hu, Q. (2022+) [*A Bayesian Robust Regression Method for Corrupted Data Reconstruction*.](https://arxiv.org/abs/2212.12787)  Submitted to Journal of Quality Technology.
 
@@ -105,13 +105,13 @@ In particular, I'm working on building new statistical models and machine learni
 
 - *A Gaussian Process Emulator based Bayesian Calibration for Functional Parameters.* (2020) Academy of Mathematics and System Sciences, Chinese Academy of Sciences, Beijing.
 
-- *A Partial Differential Equation Constrained Gaussian Processes Inference Method.* (2021) Academy of Mathematics and System Sciences, Chinese Academy of Sciences, Beijing.
+- *A Partial Differential Equation Constrained Gaussian Processes Inference Method.* (2021) Academy of Mathematics and System Sciences, Chinese Academy of Sciences, Beijing.[slides](/docs/slides/PIGPI_slides_CAS.pdf)
 
-- *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2022) Louisiana State University, Baton Rouge.
+- *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2022) Louisiana State University, Baton Rouge.[slides](/docs/slides/PIGPI_slides_LSU.pdf)
 
 ## Poster Presentations
 
-- *Robust Bayesian Regression via Hard Thresholding.* (2022) The 36th Conference on Neural Information Processing Systems (NeurIPS), New Orleans.
+- *Robust Bayesian Regression via Hard Thresholding.* (2022) The 36th Conference on Neural Information Processing Systems (NeurIPS), New Orleans.[poster](/docs/posters/Robust_Regressioin_poster.pdf)
 
 ## Contributed Talks
 
@@ -125,9 +125,9 @@ In particular, I'm working on building new statistical models and machine learni
   
 - *Higher order normal approximation approach for highly reliable system assessment.* (2021) The IISE Annual Meeting. (Virtual).
 
-- *A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.* (2021) INFORMS Annual Meeting. (Virtual) Anaheim, California. 
+- *A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.* (2021) INFORMS Annual Meeting. (Virtual) Anaheim, California.[slides](/docs/slides/Informs_2021_lizhaohui.pptx)
 
-- *Calibration of Physics Informed Computer Models with Functional Inputs.* (2022.04) SIAM Conference on Uncertainty Quantification (UQ22). Atlanta, Georgia. 
+- *Calibration of Physics Informed Computer Models with Functional Inputs.* (2022.04) SIAM Conference on Uncertainty Quantification (UQ22). Atlanta, Georgia. [slides](/docs/slides/SIAM_UQ_22_Li_Zhaohui.pdf)
 
 <span class='anchor' id='honor'></span>
 
