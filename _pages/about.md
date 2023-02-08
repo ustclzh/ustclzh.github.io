@@ -25,6 +25,8 @@ My research areas are [computer experiments](https://en.wikipedia.org/wiki/Compu
 My research interests involve integrating domain knowledge (e.g., conservation law, mechanical models, bio-system models) into statistical modeling and parameter inference. 
 In particular, I'm working on building new statistical models and machine learning algorithms for parameter inference problems, providing a novel way for scientists to calibrate their scientific model from data, and for statisticians to integrate scientific knowledge for parameter inference and uncertainty quantification of a complex computer model.
 
+See my [cv](/docs/cv/lizhaohui_cv.pdf) ([中文版](/docs/cv/lizhaohui_cv_cn.pdf)) in PDF format
+
 <span class='anchor' id='news'></span>
 
 # News
