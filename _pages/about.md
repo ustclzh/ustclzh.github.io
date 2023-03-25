@@ -29,11 +29,12 @@ Download my [cv](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/cv/
 
 <span class='anchor' id='news'></span>
 
-# News
-- *2023.03*: I will attend the [ICQSR 2023](https://informs-qsr.wordpress.ncsu.edu/) in NORTH CAROLINA STATE UNIVERSITY. 
-- *2023.01*: I will join the [Institute of Systems Science](http://iss.amss.cas.cn/), [AMSS](http://www.amss.ac.cn/), [CAS](https://www.cas.cn/), as an assistant professor this Summer. 
-- *2021.07*: I join Georgia Institute of Technology as a Postdoctoral fellow. 
-
+<h2>News</h2>
+<ul>
+  <li><em>2023.03</em>: I will attend the <a href="https://informs-qsr.wordpress.ncsu.edu/">ICQSR 2023</a> in NORTH CAROLINA STATE UNIVERSITY.</li>
+  <li><em>2023.01</em>: I will join the <a href="http://iss.amss.cas.cn/">Institute of Systems Science</a>, <a href="http://www.amss.ac.cn/">AMSS</a>, <a href="https://www.cas.cn/">CAS</a>, as an assistant professor this Summer.</li>
+  <li><em>2021.07</em>: I join Georgia Institute of Technology as a Postdoctoral fellow.</li>
+</ul>
 
 <details>
   <summary> Past News </summary>
