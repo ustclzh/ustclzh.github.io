@@ -113,7 +113,7 @@ Download my [cv](/docs/cv/lizhaohui_cv.pdf) ([中文版](/docs/cv/lizhaohui_cv_c
 - *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2022) Louisiana State University, Baton Rouge.[slides](/docs/slides/PIGPI_slides_LSU.pdf)
 
 ## Poster Presentations
-
+ 
 - *Robust Bayesian Regression via Hard Thresholding.* (2022) The 36th Conference on Neural Information Processing Systems (NeurIPS), New Orleans.[poster](/docs/posters/Robust_Regressioin_poster.pdf)
 
 ## Contributed Talks
