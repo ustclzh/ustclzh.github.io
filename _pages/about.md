@@ -33,11 +33,11 @@ Download my [cv](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/cv/
 - *2023.03*: I will attend the [ICQSR 2023](https://informs-qsr.wordpress.ncsu.edu/) in NORTH CAROLINA STATE UNIVERSITY. 
 - *2023.01*: I will join the [Institute of Systems Science](http://iss.amss.cas.cn/), [AMSS](http://www.amss.ac.cn/), [CAS](https://www.cas.cn/), as an assistant professor this Summer. 
 - *2021.07*: I join Georgia Institute of Technology as a Postdoctoral fellow. 
+- *2020.07*: I got Ph.D in statistics from Univeristy of Chinese Academy of Sciences and (jointly) City University of Hong Kong.
 
 <details>
   <summary> Past News </summary>
   <ul>
-  <li>2020.07: I got Ph.D in statistics from Univeristy of Chinese Academy of Sciences and (jointly) City University of Hong Kong.</li>
   <li>2020.06.01: I got married with Qingmei Zhao.</li>
   <li>2014.09: I start to pursue my Ph.D at Academy of Mahtematics and Systems Sciences.</li>
   </ul> 
