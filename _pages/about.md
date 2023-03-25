@@ -157,3 +157,11 @@ Download my [cv](/docs/cv/lizhaohui_cv.pdf) ([中文版](/docs/cv/lizhaohui_cv_c
 - (2021) Honorable Mention for the Best Paper in the 2020 IISE Transactions:
   - IISE transactions Annual Meeting
 
+
+
+
+Last updated: <span id="lastModified"></span>
+
+<script>
+    document.getElementById("lastModified").innerHTML = document.lastModified;
+</script>
