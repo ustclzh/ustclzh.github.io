@@ -25,7 +25,7 @@ My research areas are [computer experiments](https://en.wikipedia.org/wiki/Compu
 My research interests involve integrating domain knowledge (e.g., conservation law, mechanical models, bio-system models) into statistical modeling and parameter inference. 
 In particular, I'm working on building new statistical models and machine learning algorithms for parameter inference problems, providing a novel way for scientists to calibrate their scientific model from data, and for statisticians to integrate scientific knowledge for parameter inference and uncertainty quantification of a complex computer model.
 
-Download my [cv](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/cv/lizhaohui_cv.pdf) ([中文版](/docs/cv/lizhaohui_cv_cn.pdf)) in PDF format
+Download my [cv](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/cv/lizhaohui_cv.pdf) ([中文版](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/cv/lizhaohui_cv_cn.pdf)) in PDF format.
 
 <span class='anchor' id='news'></span>
 
@@ -68,7 +68,7 @@ Download my [cv](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/cv/
   - *Thesis title: [Contributions to System Reliability Assessment and Bayesian Inverse Problems](https://scholars.cityu.edu.hk/en/theses/theses(fa5bb936-0098-45ab-a9b5-a3537794c4fc).html)*
   - Supervisor: Prof. [Matthias Tan](https://www.cityu.edu.hk/stfprofile/matthtan.htm)
 
-[Slides for my Ph.D thesis defense](/docs/slides/Li%20Zhaohui%20thesis%20defense_final.pptx). 
+[Slides for my Ph.D thesis defense](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/Li%20Zhaohui%20thesis%20defense_final.pptx). 
 
 <span class='anchor' id='research'></span>
 
@@ -84,7 +84,7 @@ Download my [cv](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/cv/
 
 ## Submitted Journal Papers
 
-- **Li, Z.**, Yang, S., & Wu, J. (2022+) [*Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.*](https://arxiv.org/abs/2212.11880)  Submitted to SIAM Journal on Uncertainty Quantification.[slides](/docs/slides/PIGPI_slides_CAS.pdf)
+- **Li, Z.**, Yang, S., & Wu, J. (2022+) [*Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.*](https://arxiv.org/abs/2212.11880)  Submitted to SIAM Journal on Uncertainty Quantification.[slides](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/PIGPI_slides_CAS.pdf)
 
 - Fan, Z., **Li, Z.**, Wang, J., Lin, D.K.J., Xiong, X., & Hu, Q. (2022+) [*A Bayesian Robust Regression Method for Corrupted Data Reconstruction*.](https://arxiv.org/abs/2212.12787)  Submitted to Journal of Quality Technology.
 
@@ -111,13 +111,13 @@ Download my [cv](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/cv/
 
 - *A Gaussian Process Emulator based Bayesian Calibration for Functional Parameters.* (2020) Academy of Mathematics and System Sciences, Chinese Academy of Sciences, Beijing.
 
-- *A Partial Differential Equation Constrained Gaussian Processes Inference Method.* (2021) Academy of Mathematics and System Sciences, Chinese Academy of Sciences, Beijing.[slides](/docs/slides/PIGPI_slides_CAS.pdf)
+- *A Partial Differential Equation Constrained Gaussian Processes Inference Method.* (2021) Academy of Mathematics and System Sciences, Chinese Academy of Sciences, Beijing.[slides](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/PIGPI_slides_CAS.pdf)
 
-- *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2022) Louisiana State University, Baton Rouge.[slides](/docs/slides/PIGPI_slides_LSU.pdf)
+- *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2022) Louisiana State University, Baton Rouge.[slides](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/PIGPI_slides_LSU.pdf)
 
 ## Poster Presentations
  
-- *Robust Bayesian Regression via Hard Thresholding.* (2022) The 36th Conference on Neural Information Processing Systems (NeurIPS), New Orleans.[poster](/docs/posters/Robust_Regressioin_poster.pdf)
+- *Robust Bayesian Regression via Hard Thresholding.* (2022) The 36th Conference on Neural Information Processing Systems (NeurIPS), New Orleans.[poster](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/posters/Robust_Regressioin_poster.pdf)
 
 ## Contributed Talks
 
@@ -131,9 +131,9 @@ Download my [cv](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/cv/
   
 - *Higher order normal approximation approach for highly reliable system assessment.* (2021) The IISE Annual Meeting. (Virtual).
 
-- *A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.* (2021) INFORMS Annual Meeting. (Virtual) Anaheim, California.[slides](/docs/slides/Informs_2021_lizhaohui.pptx)
+- *A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.* (2021) INFORMS Annual Meeting. (Virtual) Anaheim, California.[slides](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/Informs_2021_lizhaohui.pptx)
 
-- *Calibration of Physics Informed Computer Models with Functional Inputs.* (2022.04) SIAM Conference on Uncertainty Quantification (UQ22). Atlanta, Georgia. [slides](/docs/slides/SIAM_UQ_22_Li_Zhaohui.pdf)
+- *Calibration of Physics Informed Computer Models with Functional Inputs.* (2022.04) SIAM Conference on Uncertainty Quantification (UQ22). Atlanta, Georgia. [slides](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/SIAM_UQ_22_Li_Zhaohui.pdf)
 
 <span class='anchor' id='honor'></span>
 
