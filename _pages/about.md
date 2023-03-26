@@ -29,10 +29,13 @@ Download my [cv](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/cv/
 
 <span class='anchor' id='news'></span>
 
-# News
-- *2023.03*: I will attend the [ICQSR 2023](https://informs-qsr.wordpress.ncsu.edu/) in NORTH CAROLINA STATE UNIVERSITY. 
-- *2023.01*: I will join the [Institute of Systems Science](http://iss.amss.cas.cn/), [AMSS](http://www.amss.ac.cn/), [CAS](https://www.cas.cn/), as an assistant professor this Summer. 
-- *2021.07*: I join Georgia Institute of Technology as a Postdoctoral fellow. 
+<h1><span style="color: navy;">News</span></h1>
+<ul>
+  <li><strong>2023.03:</strong> I will attend the <a href="https://informs-qsr.wordpress.ncsu.edu/">ICQSR 2023</a> in NORTH CAROLINA STATE UNIVERSITY.</li>
+  <li><strong>2023.01:</strong> I will join the <a href="http://iss.amss.cas.cn/">Institute of Systems Science</a>, <a href="http://www.amss.ac.cn/">AMSS</a>, <a href="https://www.cas.cn/">CAS</a>, as an assistant professor this Summer.</li>
+  <li><strong>2021.07:</strong> I join Georgia Institute of Technology as a Postdoctoral fellow.</li>
+</ul>
+
 
 <details>
   <summary> Past News </summary>
@@ -46,119 +49,55 @@ Download my [cv](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/cv/
 
 <span class='anchor' id='experiences'></span>
 
-# Experiences
+<h1><span style="color: navy;">Experiences</span></h1>
 
-## Working
+<h2>Working</h2>
 
-- 2020-2021 : **Research Assisstant**; School of Data Science, City University of Hong Kong
-  - Supervisor: Prof. [Matthias Tan](https://www.cityu.edu.hk/stfprofile/matthtan.htm)
+<ul>
+  <li>2020-2021 : <strong>Research Assisstant</strong>; School of Data Science, City University of Hong Kong
+    <ul>
+      <li>Supervisor: Prof. <a href="https://www.cityu.edu.hk/stfprofile/matthtan.htm">Matthias Tan</a></li>
+    </ul>
+  </li>
+  <li>2021-present : <strong>PostDoc</strong>; Georgia Institute of Technology
+    <ul>
+      <li>Supervisor: Prof. <a href="https://www2.isye.gatech.edu/~jeffwu/">Jeff Wu</a></li>
+    </ul>
+  </li>
+</ul>
 
-- 2021-present : **PostDoc**; Georgia Institute of Technology
-  - Supervisor: Prof. [Jeff Wu](https://www2.isye.gatech.edu/~jeffwu/)
+<h2>Education</h2>
 
-## Education
+<ul>
+  <li>2010-2014 : <strong>B.S, Mathematics</strong>; <a href="https://en.scgy.ustc.edu.cn/">School of the Gifted Young</a>, University of Science and Technology of China
+    <ul>
+      <li><strong>Honor degree of Hua Loo-Keng Talent Program in Mathematics</strong></li>
+    </ul>
+  </li>
+  <li>2014-2020 : <strong>Ph.D, Statistics</strong>; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
+    <ul>
+      <li>Thesis title: <a href="http://159.226.47.78:8080/opac/item.php?marc_no=376e524a547a59676e77323274503446646b366e55513d3d&amp;list=1">系统可靠性综合评估与贝叶斯逆问题中若干问题的研究</a></li>
+      <li>Supervisor: Prof. <a href="https://people.ucas.ac.cn/~0000762">Dan Yu</a></li>
+    </ul>
+  </li>
+  <li>2018-2020 : <strong>(Joint) Ph.D, Statistics</strong>; School of Data Science, City University of Hong Kong
+    <ul>
+      <li>Thesis title: <a href="https://scholars.cityu.edu.hk/en/theses/theses(fa5bb936-0098-45ab-a9b5-a3537794c4fc).html">Contributions to System Reliability Assessment and Bayesian Inverse Problems</a></li>
+      <li>Supervisor: Prof. <a href="https://www.cityu.edu.hk/stfprofile/matthtan.htm">Matthias Tan</a></li>
+    </ul>
+  </li>
+</ul>
 
-- 2010-2014 : **B.S, Mathematics**; [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), University of Science and Technology of China
-  - **Honor degree of Hua Loo-Keng Talent Program in Mathematics**
-- 2014-2020 : **Ph.D, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
-  - *Thesis title: [系统可靠性综合评估与贝叶斯逆问题中若干问题的研究](http://159.226.47.78:8080/opac/item.php?marc_no=376e524a547a59676e77323274503446646b366e55513d3d&list=1)*
-  - Supervisor: Prof. [Dan Yu](https://people.ucas.ac.cn/~0000762)
-- 2018-2020 : **(Joint) Ph.D, Statistics**; School of Data Science, City University of Hong Kong
-  - *Thesis title: [Contributions to System Reliability Assessment and Bayesian Inverse Problems](https://scholars.cityu.edu.hk/en/theses/theses(fa5bb936-0098-45ab-a9b5-a3537794c4fc).html)*
-  - Supervisor: Prof. [Matthias Tan](https://www.cityu.edu.hk/stfprofile/matthtan.htm)
-
-[Slides for my Ph.D thesis defense](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/Li%20Zhaohui%20thesis%20defense_final.pptx). 
+<p><a href="https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/Li%20Zhaohui%20thesis%20defense_final.pptx">Slides for my Ph.D thesis defense</a>.</p>
 
 <span class='anchor' id='research'></span>
 
-# Publications and Talks
+<h1><span style="color: navy;">Publications and Talks</span></h1>
 
-## Published Journal Papers
+<h2>Published Journal Papers</h2>
 
-- Du, S., **Li, Z.**, Yu, D., Li, D., & Hu, Q. (2020) [*Exact Confidence Limit for Complex System Reliability Based on Component Test Data.*](https://www.tandfonline.com/doi/abs/10.1080/16843703.2018.1535766) Quality Technology & Quantitative Management, 17(1), 75-88.
-
-- **Li, Z.**, Yu, D., Liu, J., & Hu, Q. （2021） [*Higher-order Normal Approximation Approach for Highly Reliable System Assessment.* ](https://www.tandfonline.com/doi/abs/10.1080/24725854.2019.1630869) IISE Transactions, 52(5)，555-567. 
-
-- **Li, Z.**, & Tan, M.H. （2022） [*A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.*](https://www.tandfonline.com/doi/abs/10.1080/00401706.2021.1971567) Technometrics, 64(3),299-311. 
-
-## Submitted Journal Papers
-
-- **Li, Z.**, Yang, S., & Wu, J. (2022+) [*Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.*](https://arxiv.org/abs/2212.11880)  Submitted to SIAM Journal on Uncertainty Quantification.[slides](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/PIGPI_slides_CAS.pdf)
-
-- Fan, Z., **Li, Z.**, Wang, J., Lin, D.K.J., Xiong, X., & Hu, Q. (2022+) [*A Bayesian Robust Regression Method for Corrupted Data Reconstruction*.](https://arxiv.org/abs/2212.12787)  Submitted to Journal of Quality Technology.
-
-## Conference Papers
-
-- **Li, Z.**, Hu, Q., & Yu, D. (2016) [*Higher order normal approximation approach for system reliability assessment.*](https://ieeexplore.ieee.org/document/8050110) In 2016 11th International Conference on Reliability, Maintainability, and Safety (ICRMS 2016) (pp. 1-6). IEEE.
-
-- Fan, Z., **Li, Z.**, & Hu, Q. (2022) [*Robust Bayesian Regression via Hard Thresholding.*](https://openreview.net/forum?id=krV1UM7Uw1) In 36th Conference on Neural Information Processing Systems (NeurIPS 2022).
-
-## Book Chapters
-
-- **Li, Z.**, & Tan, M.H. (2022) [*Improving Gaussian Process Emulators with Boundary Information.*](https://link.springer.com/chapter/10.1007/978-3-031-07155-3_7) Artificial Intelligence, Big Data and Data Science in Statistics, 171-192. 
-
-## Working Papers
-
-- **Li, Z.**, Yang, S., & Wu, J. (2023+) *Stochastic Differential Equations informed Gaussian Process for Parameter Inference.*
-
-- **Li, Z.**, Tan, M.H., & Wu, J. (2023+) *A Parameterization-Invariant Framework for Bayesian Calibration of Positive Definite Matrix.*
-
-
-## Invited Talks
-
-- *Functional Input Estimation Using a Gaussian Process Prior with Uncertain Correlation Parameters.* (2019) Workshop on Uncertainty Quantification, Yunnan University, Kunming.
-
-- *A Gaussian Process Emulator based Bayesian Calibration for Functional Parameters.* (2020) Academy of Mathematics and System Sciences, Chinese Academy of Sciences, Beijing.
-
-- *A Partial Differential Equation Constrained Gaussian Processes Inference Method.* (2021) Academy of Mathematics and System Sciences, Chinese Academy of Sciences, Beijing.[slides](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/PIGPI_slides_CAS.pdf)
-
-- *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2022) Louisiana State University, Baton Rouge.[slides](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/PIGPI_slides_LSU.pdf)
-
-## Poster Presentations
- 
-- *Robust Bayesian Regression via Hard Thresholding.* (2022) The 36th Conference on Neural Information Processing Systems (NeurIPS), New Orleans.[poster](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/posters/Robust_Regressioin_poster.pdf)
-
-## Contributed Talks
-
-- *Higher-order Normal Approximation Approach for Highly Reliable System Assessment.* (2016) International Research Conference on Systems Engineering and Management Science (ICR-SEMS). Beijing.
-
-- *Higher order normal approximation approach for system reliability assessment.* (2016) The 11th International Conference on Reliability, Maintainability and Safety (ICRMS) Hangzhou.
-
-- *The Buehler lower limits on system reliability based on the component experiment data.* (2016) The 7th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM), Seoul.
-
-- *Improved WCF expansion to assessing the reliability of complex systems.* (2017) The 10th International Conference on Mathematical Methods in Reliability (MMR), Grenoble. 
-  
-- *Higher order normal approximation approach for highly reliable system assessment.* (2021) The IISE Annual Meeting. (Virtual).
-
-- *A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.* (2021) INFORMS Annual Meeting. (Virtual) Anaheim, California.[slides](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/Informs_2021_lizhaohui.pptx)
-
-- *Calibration of Physics Informed Computer Models with Functional Inputs.* (2022.04) SIAM Conference on Uncertainty Quantification (UQ22). Atlanta, Georgia. [slides](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/SIAM_UQ_22_Li_Zhaohui.pdf)
-
-<span class='anchor' id='honor'></span>
-
-# Honors and Awards
-
-- (2011,2012) Outstanding Undergraduate Scholarship
-  - Unicersity of Science and Technology of China
-
-- (2013) National Scholarship
-  - Unicersity of Science and Technology of China
-
-- (2014) Honor degree of Hua Loo-Keng Talent Program in Mathematics
-  - Unicersity of Science and Technology of China
-
-- (2014) Outstanding Freshman Scholarship
-  - Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-
-- (2016) Best Paper Award
-  - The 11th International Conference on Reliability, Maintainability and Safety (ICRMS)
-
-- (2019) IISE transactions Featured Article
-  - IISE transactions
-
-- (2021) Honorable Mention for the Best Paper in the 2020 IISE Transactions:
-  - IISE transactions Annual Meeting
-
+<ul>
+  <li>Du, S., <strong>Li, Z.</strong>, Yu, D., Li, D., &amp; Hu, Q. (2020) <em>Exact Confidence Limit for Complex System Reliability Based on Component Test Data.</em> <a href="https://www.tandfonline.com/
 
 
 
