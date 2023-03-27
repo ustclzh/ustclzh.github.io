@@ -69,8 +69,9 @@ Download my [cv](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/cv/
 - 2018-2020 : **(Joint) Ph.D, Statistics**; School of Data Science, City University of Hong Kong
   - *Thesis title: [Contributions to System Reliability Assessment and Bayesian Inverse Problems](https://scholars.cityu.edu.hk/en/theses/theses(fa5bb936-0098-45ab-a9b5-a3537794c4fc).html)*
   - Supervisor: Prof. [Matthias Tan](https://www.cityu.edu.hk/stfprofile/matthtan.htm)
+  - [Slides for my Ph.D thesis defense](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/Li%20Zhaohui%20thesis%20defense_final.pptx). 
 
-[Slides for my Ph.D thesis defense](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/Li%20Zhaohui%20thesis%20defense_final.pptx). 
+
 
 <span class='anchor' id='research'></span>
 
