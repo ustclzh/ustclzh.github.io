@@ -5,10 +5,8 @@
   <div class="navbar">
       <a href="#top">Home</a>
       <a href="#about-me">About me</a>
-      <a href="#experiences">Experiences</a>
       <a href="#publication">Publications</a>
       <a href="#talk">Talks</a>
-      <a href="#honor">Honors</a>
 </div>
 
 <span class='anchor' id='top'></span>
@@ -16,12 +14,12 @@
 <div class="profile">
   <img src="docs/photo-single.jpg" alt="Your Name" class="profile-image">
   <h1>Zhaohui Li</h1>
-  <a href="mailto:zhaohui.li@gatech.edu">zhaohui.li@gatech.edu</a>
-
   <div class="link-bar">
   <a href="https://scholar.google.com.hk/citations?user=q74VU6sAAAAJ&hl=zh-CN">Google Scholar</a>
   <a href="https://www.researchgate.net/profile/Zhaohui-Li-3">Researchgate</a> 
   <a href="https://github.com/li-zhaohui">Github</a>  
+  <a href="mailto:zhaohui.li@gatech.edu">Email Me</a>
+
   <!-- Add more links as needed -->
   </div>
 </div>
