@@ -85,19 +85,13 @@ Download my [cv](docs/cv/lizhaohui_cv.pdf) ([中文版](docs/cv/lizhaohui_cv_cn.
 <span class='anchor' id='research'></span>
 <h1>Research Interests</h1>
 
-## Physics-Informed Machine Learning
+Physics-Informed Machine Learning
 
+Calibration of Computer Models
 
-## Calibration of Computer Models
+System Reliability
 
-
-## System Reliability
-
-
-## Robust Regression
-
-
-
+Robust Regression
 
 
 <span class='anchor' id='publication'></span>
@@ -112,12 +106,6 @@ Download my [cv](docs/cv/lizhaohui_cv.pdf) ([中文版](docs/cv/lizhaohui_cv_cn.
 
 - **Li, Z.**, & Tan, M.H. （2022） [*A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.*](https://www.tandfonline.com/doi/abs/10.1080/00401706.2021.1971567) Technometrics, 64(3),299-311. 
 
-## Submitted Journal Papers
-
-- **Li, Z.**, Yang, S., & Wu, J. (2022+) [*Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.*](https://arxiv.org/abs/2212.11880)  Submitted to SIAM Journal on Uncertainty Quantification.[slides](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/PIGPI_slides_CAS.pdf)
-
-- Fan, Z., **Li, Z.**, Wang, J., Lin, D.K.J., Xiong, X., & Hu, Q. (2022+) [*A Bayesian Robust Regression Method for Corrupted Data Reconstruction*.](https://arxiv.org/abs/2212.12787)  Submitted to Journal of Quality Technology.
-
 ## Conference Papers
 
 - **Li, Z.**, Hu, Q., & Yu, D. (2016) [*Higher order normal approximation approach for system reliability assessment.*](https://ieeexplore.ieee.org/document/8050110) In 2016 11th International Conference on Reliability, Maintainability, and Safety (ICRMS 2016) (pp. 1-6). IEEE.
@@ -128,11 +116,21 @@ Download my [cv](docs/cv/lizhaohui_cv.pdf) ([中文版](docs/cv/lizhaohui_cv_cn.
 
 - **Li, Z.**, & Tan, M.H. (2022) [*Improving Gaussian Process Emulators with Boundary Information.*](https://link.springer.com/chapter/10.1007/978-3-031-07155-3_7) Artificial Intelligence, Big Data and Data Science in Statistics, 171-192. 
 
+
+## Submitted Papers
+
+- **Li, Z.**, Yang, S., & Wu, J. (2022+) [*Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.*](https://arxiv.org/abs/2212.11880)  Submitted to SIAM Journal on Uncertainty Quantification. Under major revision. [[slides]](https://github.com/ustclzh/ustclzh.github.io/blob/main/docs/slides/PIGPI_slides_CAS.pdf)
+
+- Fan, Z., **Li, Z.**, Wang, J., Lin, D.K.J., Xiong, X., & Hu, Q. (2022+) [*A Bayesian Robust Regression Method for Corrupted Data Reconstruction*.](https://arxiv.org/abs/2212.12787)  Submitted to Journal of Quality Technology. Under major revision. 
+
+- **Li, Z.**, Yang, S., & Wu, J. (2023+) *Stochastic Differential Equations informed Gaussian Process for Parameter Inference.* Submitted to NeurIPS 2023.
+
+
 ## Working Papers
 
-- **Li, Z.**, Yang, S., & Wu, J. (2023+) *Stochastic Differential Equations informed Gaussian Process for Parameter Inference.*
-
 - **Li, Z.**, Tan, M.H., & Wu, J. (2023+) *A Parameterization-Invariant Framework for Bayesian Calibration of Positive Definite Matrix.*
+
+- Sun, Y., **Li, Z.**, Xie, Y., Yang, S. (2023+) *O-MAGIC: Online Change-Point Detection for Dynamic Systems.*
 
 <span class='anchor' id='talk'></span>
 
@@ -144,13 +142,13 @@ Download my [cv](docs/cv/lizhaohui_cv.pdf) ([中文版](docs/cv/lizhaohui_cv_cn.
 
 - *A Gaussian Process Emulator based Bayesian Calibration for Functional Parameters.* (2020) Academy of Mathematics and System Sciences, Chinese Academy of Sciences, Beijing.
 
-- *A Partial Differential Equation Constrained Gaussian Processes Inference Method.* (2021) Academy of Mathematics and System Sciences, Chinese Academy of Sciences, Beijing.[slides](docs/slides/PIGPI_slides_CAS.pdf)
+- *A Partial Differential Equation Constrained Gaussian Processes Inference Method.* (2021) Academy of Mathematics and System Sciences, Chinese Academy of Sciences, Beijing.[[slides]](docs/slides/PIGPI_slides_CAS.pdf)
 
-- *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2022) Louisiana State University, Baton Rouge.[slides](docs/slides/PIGPI_slides_LSU.pdf)
+- *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2022) Louisiana State University, Baton Rouge.[[slides]](docs/slides/PIGPI_slides_LSU.pdf)
 
 ## Poster Presentations
  
-- *Robust Bayesian Regression via Hard Thresholding.* (2022) The 36th Conference on Neural Information Processing Systems (NeurIPS), New Orleans.[poster](docs/posters/Robust_Regressioin_poster.pdf)
+- *Robust Bayesian Regression via Hard Thresholding.* (2022) The 36th Conference on Neural Information Processing Systems (NeurIPS), New Orleans.[[poster]](docs/posters/Robust_Regressioin_poster.pdf)
 
 ## Contributed Talks
 
@@ -164,9 +162,13 @@ Download my [cv](docs/cv/lizhaohui_cv.pdf) ([中文版](docs/cv/lizhaohui_cv_cn.
   
 - *Higher order normal approximation approach for highly reliable system assessment.* (2021) The IISE Annual Meeting. (Virtual).
 
-- *A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.* (2021) INFORMS Annual Meeting. (Virtual) Anaheim, California.[slides](docs/slides/Informs_2021_lizhaohui.pptx)
+- *A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.* (2021) INFORMS Annual Meeting. (Virtual) Anaheim, California.[[slides]](docs/slides/Informs_2021_lizhaohui.pptx)
 
-- *Calibration of Physics Informed Computer Models with Functional Inputs.* (2022.04) SIAM Conference on Uncertainty Quantification (UQ22). Atlanta, Georgia. [slides](docs/slides/SIAM_UQ_22_Li_Zhaohui.pdf)
+- *Calibration of Physics Informed Computer Models with Functional Inputs.* (2022.04) SIAM Conference on Uncertainty Quantification (UQ22). Atlanta, Georgia. [[slides]](docs/slides/SIAM_UQ_22_Li_Zhaohui.pdf)
+
+- *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2023) INFORMS Conference on Quality, Statistics, and Reliability (ICQSR). Raleigh, North Carolina. [[slides]](docs/slides/Slides_ICQSR_NC_State.pdf)
+
+**Please feel free to request papers, codes, or slides related to my presentations and research via email.**
 
 <span class='anchor' id='honor'></span>
 
