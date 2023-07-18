@@ -146,6 +146,8 @@ Robust Regression
 
 - *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2022) Louisiana State University, Baton Rouge.[[slides]](docs/slides/PIGPI_slides_LSU.pdf)
 
+- *Nonlinear Partial Differential Equations Informed Gaussian Processes.* (2023) Georgia Institute of Technology, Atlanta.
+
 ## Poster Presentations
  
 - *Robust Bayesian Regression via Hard Thresholding.* (2022) The 36th Conference on Neural Information Processing Systems (NeurIPS), New Orleans.[[poster]](docs/posters/Robust_Regressioin_poster.pdf)
@@ -167,6 +169,9 @@ Robust Regression
 - *Calibration of Physics Informed Computer Models with Functional Inputs.* (2022.04) SIAM Conference on Uncertainty Quantification (UQ22). Atlanta, Georgia. [[slides]](docs/slides/SIAM_UQ_22_Li_Zhaohui.pdf)
 
 - *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2023) INFORMS Conference on Quality, Statistics, and Reliability (ICQSR). Raleigh, North Carolina. [[slides]](docs/slides/Slides_ICQSR_NC_State.pdf)
+
+- *Robust Bayesian Regression via Hard Thresholding.* (2023). The First Joint Conference on Statistics and Data Science in China (JCSDS). Beijing.[[slides]](docs/slides/robust_regression_slides.pdf)
+
 
 **Please feel free to request papers, codes, or slides related to my presentations and research via email.**
 
