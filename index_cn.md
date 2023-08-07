@@ -17,7 +17,7 @@
   <div class="link-bar">
   <a href="https://scholar.google.com.hk/citations?user=q74VU6sAAAAJ&hl=zh-CN">Google Scholar</a>
   <a href="https://www.researchgate.net/profile/Zhaohui-Li-3">Researchgate</a> 
-  <a href="https://github.com/li-zhaohui">Github</a>  
+  <a href="https://github.com/ustclzh">Github</a>  
   <a href="mailto:lizh@amss.ac.cn">Email Me</a>
 
   <!-- Add more links as needed -->
