@@ -27,7 +27,8 @@
 
 <span class='anchor' id='about-me'></span>
 <h1>About me</h1>
-I am currently a Post-Doctoral Fellow at the [H. Milton Stewart School of Industrial and Systems Engineering (ISyE), Georgia Institute of technology](https://www.isye.gatech.edu/). 
+I am currently an Assisstant Professor at the <a href="http://iss.amss.cas.cn/">Institute of Systems Science</a>, <a href="http://www.amss.ac.cn/">AMSS</a>, <a href="https://www.cas.cn/">CAS</a>.
+Before joining CAS, I was a Post-Doctoral Fellow at the [H. Milton Stewart School of Industrial and Systems Engineering (ISyE), Georgia Institute of technology](https://www.isye.gatech.edu/). 
 Before joining Georgia Tech, I was a research assistant at the [School of Data Science, City university of Hong Kong](https://www.sdsc.cityu.edu.hk/). 
 I received my B.S degree in Mathematics from Hua Loo-Keng Talent Program in Mathematics at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in 2014, graduated with honors, and my Ph.D. degree in Statistics from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) and (Jointly) City University of Hong Kong.
 
@@ -42,15 +43,18 @@ Download my [cv](docs/cv/lizhaohui_cv.pdf) ([中文版](docs/cv/lizhaohui_cv_cn.
 <h1>News</h1>
 
 <ul>
-  <li><strong>2023.06:</strong> I will attend the <a href="https://informs-qsr.wordpress.ncsu.edu/">ICQSR 2023</a> in NORTH CAROLINA STATE UNIVERSITY.</li>
-  <li><strong>2023.01:</strong> I will join the <a href="http://iss.amss.cas.cn/">Institute of Systems Science</a>, <a href="http://www.amss.ac.cn/">AMSS</a>, <a href="https://www.cas.cn/">CAS</a>, as an assistant professor this Summer.</li>
-  <li><strong>2021.07:</strong> I join Georgia Institute of Technology as a Postdoctoral fellow.</li>
+
+  <li><strong>2023.12.20:</strong> I will give a talk at AMSS.</li>
+  <li><strong>2023.12.25:</strong> I will give a talk at BUT.</li>
 </ul>
 
 
 <details>
   <summary> Past News </summary>
   <ul>
+  <li><strong>2023.06:</strong> I attend the <a href="https://informs-qsr.wordpress.ncsu.edu/">ICQSR 2023</a> in NORTH CAROLINA STATE UNIVERSITY.</li>
+  <li><strong>2023.01:</strong> I join the <a href="http://iss.amss.cas.cn/">Institute of Systems Science</a>, <a href="http://www.amss.ac.cn/">AMSS</a>, <a href="https://www.cas.cn/">CAS</a>, as an assistant professor this Summer.</li>
+  <li><strong>2021.07:</strong> I join Georgia Institute of Technology as a Postdoctoral fellow.</li>
   <li>2020.07: I got Ph.D in statistics from Univeristy of Chinese Academy of Sciences and (jointly) City University of Hong Kong.</li>
   <li>2020.06.01: I got married with Qingmei Zhao.</li>
   <li>2014.09: I start to pursue my Ph.D at Academy of Mahtematics and Systems Sciences.</li>
