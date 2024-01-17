@@ -17,7 +17,7 @@
   <div class="link-bar">
   <a href="https://scholar.google.com.hk/citations?user=q74VU6sAAAAJ&hl=zh-CN">Google Scholar</a>
   <a href="https://www.researchgate.net/profile/Zhaohui-Li-3">Researchgate</a> 
-  <a href="https://github.com/li-zhaohui">Github</a>  
+  <a href="https://github.com/ustclzh">Github</a>  
   <a href="mailto:lizh@amss.ac.cn">Email Me</a>
 
   <!-- Add more links as needed -->
@@ -43,7 +43,6 @@ Download my [cv](docs/cv/lizhaohui_cv.pdf) ([中文版](docs/cv/lizhaohui_cv_cn.
 <h1>News</h1>
 
 <ul>
-
   <li><strong>2023.12.20:</strong> I will give a talk at AMSS.</li>
   <li><strong>2023.12.25:</strong> I will give a talk at BUT.</li>
 </ul>
@@ -78,10 +77,10 @@ Download my [cv](docs/cv/lizhaohui_cv.pdf) ([中文版](docs/cv/lizhaohui_cv_cn.
 - 2010-2014 : **B.S, Mathematics**; [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), University of Science and Technology of China
   - **Honor degree of Hua Loo-Keng Talent Program in Mathematics**
 - 2014-2020 : **Ph.D, Statistics**; Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
-  - *Thesis title: [系统可靠性综合评估与贝叶斯逆问题中若干问题的研究](http://159.226.47.78:8080/opac/item.php?marc_no=376e524a547a59676e77323274503446646b366e55513d3d&list=1)*
+  - *Thesis: [系统可靠性综合评估与贝叶斯逆问题中若干问题的研究](http://159.226.47.78:8080/opac/item.php?marc_no=376e524a547a59676e77323274503446646b366e55513d3d&list=1)*
   - Supervisor: Prof. [Dan Yu](https://people.ucas.ac.cn/~0000762)
 - 2018-2020 : **(Joint) Ph.D, Statistics**; School of Data Science, City University of Hong Kong
-  - *Thesis title: [Contributions to System Reliability Assessment and Bayesian Inverse Problems](https://scholars.cityu.edu.hk/en/theses/theses(fa5bb936-0098-45ab-a9b5-a3537794c4fc).html)*
+  - *Thesis: [Contributions to System Reliability Assessment and Bayesian Inverse Problems](https://scholars.cityu.edu.hk/en/theses/theses(fa5bb936-0098-45ab-a9b5-a3537794c4fc).html)*
   - Supervisor: Prof. [Matthias Tan](https://www.cityu.edu.hk/stfprofile/matthtan.htm)
   - [Slides for my Ph.D thesis defense](docs/slides/Li%20Zhaohui%20thesis%20defense_final.pptx). 
 
