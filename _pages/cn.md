@@ -21,7 +21,7 @@ redirect_from:
 <span class='anchor' id='top'></span>
 
 <div class="profile">
-  <img src="docs/photo-single.jpg" alt="李赵辉" class="profile-image">
+  <img src="/docs/photo-single.jpg" alt="李赵辉" class="profile-image">
   <h1>李赵辉</h1>
   <p>中国科学院数学与系统科学研究院，系统科学研究所，助理研究员</p>
   <div class="link-bar">
@@ -42,7 +42,7 @@ redirect_from:
 我的研究兴趣涉及将领域知识（如守恒定律、力学模型、生物系统模型）整合到统计建模和参数推断中。
 具体而言，我致力于构建新的统计模型和机器学习算法来解决参数推断问题，为科学家从数据中校准科学模型提供新方法，并为统计学家整合科学知识来进行复杂计算机模型的参数推断和不确定性量化。
 
-下载我的<a href="docs/cv/lizhaohui_cv.pdf">简历</a>（<a href="docs/cv/lizhaohui_cv_cn.pdf">中文版</a>）PDF格式。
+下载我的<a href="/docs/cv/lizhaohui_cv.pdf">简历</a>（<a href="/docs/cv/lizhaohui_cv_cn.pdf">中文版</a>）PDF格式。
 
 
 <span class='anchor' id='news'></span>
@@ -88,7 +88,7 @@ redirect_from:
 - 2018-2020 : **（联合培养）统计学博士**；香港城市大学数据科学学院
   - *学位论文：[Contributions to System Reliability Assessment and Bayesian Inverse Problems](https://scholars.cityu.edu.hk/en/theses/theses(fa5bb936-0098-45ab-a9b5-a3537794c4fc).html)*
   - 导师：[谭志辉教授](https://www.cityu.edu.hk/stfprofile/matthtan.htm)
-  - [博士论文答辩幻灯片](docs/slides/Li%20Zhaohui%20thesis%20defense_final.pptx)。
+  - [博士论文答辩幻灯片](/docs/slides/Li%20Zhaohui%20thesis%20defense_final.pptx)。
 
 
 <span class='anchor' id='research'></span>
@@ -151,19 +151,19 @@ redirect_from:
 
 - *A Gaussian Process Emulator based Bayesian Calibration for Functional Parameters.* (2020) 中国科学院数学与系统科学研究院，北京。
 
-- *A Partial Differential Equation Constrained Gaussian Processes Inference Method.* (2021) 中国科学院数学与系统科学研究院，北京。[[slides]](docs/slides/PIGPI_slides_CAS.pdf)
+- *A Partial Differential Equation Constrained Gaussian Processes Inference Method.* (2021) 中国科学院数学与系统科学研究院，北京。[[slides]](/docs/slides/PIGPI_slides_CAS.pdf)
 
-- *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2022) 路易斯安那州立大学，巴吞鲁日。[[slides]](docs/slides/PIGPI_slides_LSU.pdf)
+- *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2022) 路易斯安那州立大学，巴吞鲁日。[[slides]](/docs/slides/PIGPI_slides_LSU.pdf)
 
 - *Nonlinear Partial Differential Equations Informed Gaussian Processes.* (2023) 佐治亚理工学院，亚特兰大。
 
 - *A Gaussian Process Emulator based Bayesian Calibration for Functional Parameters.* (2023.07.23) 第十一届国际质量与可靠性科学技术研讨会，北京。
 
-- *Parameter Inference via Nonlinear Partial Differential Equations Informed Gaussian Processes.* (2023.07.26) 2023年北京理工大学计算统计研讨会。[[slides]](docs/slides/PIGPI_slides_BIT.pdf)
+- *Parameter Inference via Nonlinear Partial Differential Equations Informed Gaussian Processes.* (2023.07.26) 2023年北京理工大学计算统计研讨会。[[slides]](/docs/slides/PIGPI_slides_BIT.pdf)
 
 ## 海报展示
 
-- *Robust Bayesian Regression via Hard Thresholding.* (2022) The 36th Conference on Neural Information Processing Systems (NeurIPS), New Orleans. [[poster]](docs/posters/Robust_Regressioin_poster.pdf)
+- *Robust Bayesian Regression via Hard Thresholding.* (2022) The 36th Conference on Neural Information Processing Systems (NeurIPS), New Orleans. [[poster]](/docs/posters/Robust_Regressioin_poster.pdf)
 
 ## 分组报告
 
@@ -177,13 +177,13 @@ redirect_from:
 
 - *Higher order normal approximation approach for highly reliable system assessment.* (2021) The IISE Annual Meeting. (Virtual).
 
-- *A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.* (2021) INFORMS Annual Meeting. (Virtual) Anaheim, California. [[slides]](docs/slides/Informs_2021_lizhaohui.pptx)
+- *A Gaussian Process Emulator Based Approach for Bayesian Calibration of a Functional Input.* (2021) INFORMS Annual Meeting. (Virtual) Anaheim, California. [[slides]](/docs/slides/Informs_2021_lizhaohui.pptx)
 
-- *Calibration of Physics Informed Computer Models with Functional Inputs.* (2022.04) SIAM Conference on Uncertainty Quantification (UQ22). Atlanta, Georgia. [[slides]](docs/slides/SIAM_UQ_22_Li_Zhaohui.pdf)
+- *Calibration of Physics Informed Computer Models with Functional Inputs.* (2022.04) SIAM Conference on Uncertainty Quantification (UQ22). Atlanta, Georgia. [[slides]](/docs/slides/SIAM_UQ_22_Li_Zhaohui.pdf)
 
-- *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2023) INFORMS Conference on Quality, Statistics, and Reliability (ICQSR). Raleigh, North Carolina. [[slides]](docs/slides/Slides_ICQSR_NC_State.pdf)
+- *Inference of Nonlinear Partial Differential Equations via Constrained Gaussian Processes.* (2023) INFORMS Conference on Quality, Statistics, and Reliability (ICQSR). Raleigh, North Carolina. [[slides]](/docs/slides/Slides_ICQSR_NC_State.pdf)
 
-- *Robust Bayesian Regression via Hard Thresholding.* (2023). The First Joint Conference on Statistics and Data Science in China (JCSDS). Beijing. [[slides]](docs/slides/robust_regression_slides.pdf)
+- *Robust Bayesian Regression via Hard Thresholding.* (2023). The First Joint Conference on Statistics and Data Science in China (JCSDS). Beijing. [[slides]](/docs/slides/robust_regression_slides.pdf)
 
 
 **如有需要论文、代码或报告相关资料，请通过邮件联系我。**
