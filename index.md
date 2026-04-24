@@ -1,18 +1,24 @@
-<link rel="stylesheet" href="style.css">
+---
+layout: default
+title: Zhaohui Li
+---
+
+<link rel="stylesheet" href="/style.css">
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="script.js"></script>
+<script src="/script.js"></script>
 
   <div class="navbar">
       <a href="#top">Home</a>
       <a href="#about-me">About me</a>
       <a href="#publication">Publications</a>
       <a href="#talk">Talks</a>
+      <a href="/cn/" style="float:right;">中文</a>
 </div>
 
 <span class='anchor' id='top'></span>
 
 <div class="profile">
-  <img src="docs/photo-single.jpg" alt="Your Name" class="profile-image">
+  <img src="docs/photo-single.jpg" alt="Zhaohui Li" class="profile-image">
   <h1>Zhaohui Li</h1>
   <div class="link-bar">
   <a href="https://scholar.google.com.hk/citations?user=q74VU6sAAAAJ&hl=zh-CN">Google Scholar</a>
@@ -27,7 +33,7 @@
 
 <span class='anchor' id='about-me'></span>
 <h1>About me</h1>
-I am currently an Assisstant Professor at the <a href="http://iss.amss.cas.cn/">Institute of Systems Science</a>, <a href="http://www.amss.ac.cn/">AMSS</a>, <a href="https://www.cas.cn/">CAS</a>.
+I am currently an Assistant Professor at the <a href="http://iss.amss.cas.cn/">Institute of Systems Science</a>, <a href="http://www.amss.ac.cn/">AMSS</a>, <a href="https://www.cas.cn/">CAS</a>.
 Before joining CAS, I was a Post-Doctoral Fellow at the [H. Milton Stewart School of Industrial and Systems Engineering (ISyE), Georgia Institute of technology](https://www.isye.gatech.edu/). 
 Before joining Georgia Tech, I was a research assistant at the [School of Data Science, City university of Hong Kong](https://www.sdsc.cityu.edu.hk/). 
 I received my B.S degree in Mathematics from Hua Loo-Keng Talent Program in Mathematics at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in 2014, graduated with honors, and my Ph.D. degree in Statistics from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) and (Jointly) City University of Hong Kong.
@@ -66,10 +72,12 @@ Download my [cv](docs/cv/lizhaohui_cv.pdf) ([中文版](docs/cv/lizhaohui_cv_cn.
 
 ## Working
 
-- 2020-2021 : **Research Assisstant**; School of Data Science, City University of Hong Kong
+- 2020-2021 : **Research Assistant**; School of Data Science, City University of Hong Kong
   - Supervisor: Prof. [Matthias Tan](https://www.cityu.edu.hk/stfprofile/matthtan.htm)
 
-- 2021-present : **PostDoc**; Georgia Institute of Technology
+- 2023-present : **Assistant Professor**; Institute of Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+
+- 2021-2023 : **PostDoc**; Georgia Institute of Technology
   - Supervisor: Prof. [Jeff Wu](https://www2.isye.gatech.edu/~jeffwu/)
 
 ## Education
@@ -200,13 +208,13 @@ Robust Regression
 # Honors and Awards
 
 - (2011,2012) Outstanding Undergraduate Scholarship
-  - Unicersity of Science and Technology of China
+  - University of Science and Technology of China
 
 - (2013) National Scholarship
-  - Unicersity of Science and Technology of China
+  - University of Science and Technology of China
 
 - (2014) Honor degree of Hua Loo-Keng Talent Program in Mathematics
-  - Unicersity of Science and Technology of China
+  - University of Science and Technology of China
 
 - (2014) Outstanding Freshman Scholarship
   - Academy of Mathematics and Systems Science, Chinese Academy of Sciences

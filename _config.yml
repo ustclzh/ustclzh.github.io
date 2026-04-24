@@ -1,4 +1,6 @@
 # Site Settings
 title: Zhaohui Li
 
-
+# Include _pages directory
+include:
+  - _pages
