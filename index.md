@@ -12,7 +12,7 @@ title: Zhaohui Li
       <a href="#about-me">About me</a>
       <a href="#publication">Publications</a>
       <a href="#talk">Talks</a>
-      <a href="/cn/" style="float:right;">中文</a>
+      <a href="/cn/">中文</a>
 </div>
 
 <span class='anchor' id='top'></span>

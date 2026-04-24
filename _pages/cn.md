@@ -15,14 +15,14 @@ redirect_from:
     <a href="#about-me">关于我</a>
     <a href="#publication">发表论文</a>
     <a href="#talk">报告</a>
-    <a href="/" style="float:right;">English</a>
+    <a href="/">English</a>
 </div>
 
 <span class='anchor' id='top'></span>
 
 <div class="profile">
-  <img src="docs/photo-single.jpg" alt="李兆辉" class="profile-image">
-  <h1>李兆辉</h1>
+  <img src="docs/photo-single.jpg" alt="李赵辉" class="profile-image">
+  <h1>李赵辉</h1>
   <p>中国科学院数学与系统科学研究院，系统科学研究所，助理研究员</p>
   <div class="link-bar">
   <a href="https://scholar.google.com.hk/citations?user=q74VU6sAAAAJ&hl=zh-CN">Google Scholar</a>
